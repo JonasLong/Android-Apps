@@ -1,5 +1,5 @@
-# appDevelopment
-Apps I developed using MIT App Inventor in 2018
+# App Development
+Apps I developed for fun using MIT App Inventor in 2018
 
 I cannot guarantee that all of these apps will continue to work, as I am not actively maintaining them
 
