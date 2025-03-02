@@ -1,8 +1,8 @@
 # App Development
-Apps I developed for fun using MIT App Inventor in 2018
+Apps made for Android developed using MIT App Inventor and Thunkable
+This is a combination of personal projects and coursework for AP Computer Science Principles
 
-I cannot guarantee that all of these apps will continue to work, as I am not actively maintaining them
-
+No longer under active maintenance
 <br>
 
 **App Updater:** This app allows you to see when I update my apps, and makes their install process simple.
