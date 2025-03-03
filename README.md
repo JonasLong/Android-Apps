@@ -1,4 +1,4 @@
-# App Development
+# Android App Development
 Apps made for Android developed using MIT App Inventor and Thunkable. This is a combination of personal projects and coursework for AP Computer Science Principles.
 
 No longer under active maintenance
